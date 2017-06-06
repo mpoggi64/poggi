@@ -1,0 +1,15 @@
+
+code {
+  background: #ddd;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Canvas element created by p5 */
+canvas {
+  border: solid 8px #ddd;
+  display: block;
+  margin: 40px 0;
+}
